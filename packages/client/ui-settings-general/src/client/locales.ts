@@ -82,6 +82,7 @@ export const en = {
 /** Spanish (Latin America) dictionary, checked complete against the zh key set. */
 export const es = {
   'trigger': 'Ajustes',
+  'shortcut.open': 'Abrir ajustes',
   'desktop.update.available': 'Actualización',
   'desktop.update.checking': 'Buscando actualizaciones…',
   'desktop.update.progress': '{percent}%',

@@ -65,6 +65,7 @@ export const en = {
 
 /** Spanish (Latin America) dictionary, checked against the Chinese key set. */
 export const es = {
+  'shortcut.noSession': 'Selecciona una sesión primero',
   'type.label': 'Archivos',
   'guide.title': 'Archivos del espacio de trabajo',
   'guide.description': 'Explora los archivos en el espacio de trabajo de esta sesión',
